@@ -27,4 +27,3 @@ console.log(`The ending punctuation mark is a "${endPunctuation}"`);
 console.log("Workshop complete! You now know how to use includes() and slice()."
 );
 
-//This program demonstrates how to use important JavaScript string methods like includes() and slice(). It checks whether certain words exist inside a string using includes(), showing that JavaScript is case-sensitive. It also extracts parts of a string using slice(), such as the platform name, first word, and the last punctuation mark. This helps beginners understand how to search and manipulate text in JavaScript effectively.
